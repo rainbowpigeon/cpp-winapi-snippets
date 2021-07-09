@@ -4,6 +4,6 @@ C++ WinAPI Code Snippets
 Check out my site at https://rainbowpigeon.netlify.app!
 
 
-| Filename                 | Description                                                         |
-|--------------------------|---------------------------------------------------------------------|
-| `dllmain_create_process.cpp` | DLL that calls `CreateProcessW` in another thread and cleanly exits |
+| Filename                 | Description                                                                                            |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| `dllmain_create_process` | DLL that calls `CreateProcessW` in a separate thread and cleanly exits with `FreeLibraryAndExitThread` |
