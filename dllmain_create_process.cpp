@@ -6,7 +6,8 @@ HMODULE g_hDll = NULL;
 
 extern "C" __declspec(dllexport) void init();
 
-BOOL APIENTRY DllMain(HMODULE hModule,
+BOOL APIENTRY DllMain(
+	HMODULE hModule,
 	DWORD ul_reason_for_call,
 	LPVOID lpReserved
 ) {
