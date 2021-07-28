@@ -1,5 +1,5 @@
 # cpp-winapi-snippets
-C++ WinAPI Code Snippets
+C/C++ WinAPI Code Snippets
 
 Check out my site at https://rainbowpigeon.netlify.app!
 
