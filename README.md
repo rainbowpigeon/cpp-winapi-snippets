@@ -1,7 +1,7 @@
 # cpp-winapi-snippets
 C/C++ WinAPI Code Snippets
 
-Check out my site at https://rainbowpigeon.netlify.app!
+Check out my site at https://rainbowpigeon.me!
 
 
 | Filename                     | Description                                                                                            |
